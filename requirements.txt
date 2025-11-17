@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+Pillow
+pandas
+PyPDF2
+pyperclip
